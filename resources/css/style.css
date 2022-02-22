@@ -1,7 +1,12 @@
 body {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	background-color: black;
 	text-align: center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+	color: aquamarine;
+	font-size: 16px;
 }
 
 h1 {
@@ -19,11 +24,6 @@ h2 {
 .subheading {
 	font-size: 21px;
 	color: gray;
-}
-
-a {
-	color: aquamarine;
-	font-size: 16px;
 }
 
 .copyright {
